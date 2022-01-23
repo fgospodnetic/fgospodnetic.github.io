@@ -1,0 +1,11 @@
+---
+title: ""
+output: html_document
+
+---
+
+# Prijavni obrazac 
+
+Molimo vas da popunite ovaj [prijavni obrazac](https://docs.google.com/forms/d/e/1FAIpQLSdlNP2qi2YDUuFzyFnObaPHKZAFCSUzE0sOKKB9BvjLVme3GA/viewform) kako bismo mogli uz što manje poteškoća organizirati vjenčanje.
+
+Rok za prijavu je **20.2.2022.**
