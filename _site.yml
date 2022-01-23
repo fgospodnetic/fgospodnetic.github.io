@@ -28,7 +28,6 @@ navbar:
       href: covid.html
 
 
-
 output:
    html_document:
       theme: cerulean
