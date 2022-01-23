@@ -27,14 +27,7 @@ navbar:
     - text: "COVID-19"
       href: covid.html
 
-    - text: "Jelovnik"
-      href: jelovnik.html
-      
-    - text: "FAQ"
-      href: pitanja_i_odgovori.html
-      
-    - text: "Gosti"
-      href: gosti.html
+
 
 output:
    html_document:
