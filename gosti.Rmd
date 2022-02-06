@@ -4,7 +4,7 @@ title: ""
 output: html_document
 ---
 
-# Gosti koji su potvrdili dolazak
+#### Gosti koji su potvrdili dolazak
 
 ![](01_slajd_gosti.png)
 ![](02_slajd_gosti.png)
