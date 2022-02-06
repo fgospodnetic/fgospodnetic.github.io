@@ -3,7 +3,8 @@ title: ""
 output: html_document
 ---
 
-Želimo da nam zajedničko druženje bude ugodno i sigurno, a zbog situacije s COVID-19 moramo poštovati propisana pravila da bismo očuvali vlastito zdravlje. Stoga molimo sve uzvanike da prilože jedan od sljedećih dokaza: 
+Želimo da nam zajedničko druženje bude ugodno i sigurno, a zbog situacije s COVID-19 moramo poštovati propisana pravila da bismo očuvali vlastito zdravlje. Stoga svi uzvanici moraju imati jedan od sljedećih dokaza:
+
 
 - dokaz o preboljevanju bolesti COVID-19
 - dokaz o cijepljenju
@@ -12,4 +13,4 @@ output: html_document
 
 Detaljne informacije o COVID - 19 pravilima i potvrdama možete vidjeti na web stranici [COVID putovnica](https://eudigitalnacovidpotvrda.hr/hr)
 
-Pratimo razvoj situacije s epidemijom virusa COVID-19 te u slučaju većih promjena u pravilima organizacije pravovremeno ćemo vas obavijestiti.
+I dalje pratimo razvoj situacije s epidemijom virusa COVID-19 te u slučaju većih promjena u pravilima organizacije pravovremeno ćemo vas obavijestiti.

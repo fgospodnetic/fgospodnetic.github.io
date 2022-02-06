@@ -3,18 +3,89 @@ title: ""
 output: html_document
 ---
 
-<font size="5">
-<center>
 
-Proslava povodom našeg vjenčanja održat će se
 
-5.3.2022.
+# 17:00     Vjenčanje u Starogradskoj vijećnici
 
-u Studiu Katran!
 
-Vrijeme početka proslave kao i neke druge detalje ćemo naknadno objaviti.
+Vjenčanje će se održati u Starogradskoj vijećnici, dvorana 2, Ulica Sv. Ćirila i Metoda 5 (Gornji grad). Kapacitet dvorane je ograničen na 16 osoba te su mjesta rezervirana za najbliže članove obitelji. Ako želite, dobrodošli ste dočekati nas ispred vijećnice. Predviđeno trajanje ceremonije je 15 minuta.
+ 
 
-So... stay tuned :) 
 
-</center>
+# 18:00     Proslava u Studiu Katran
+
+Proslava našeg vjenčanja će se održati u Studiu Katran, Radnička cesta 27 [(lokacija)](https://fgospodnetic.github.io/lokacija.html). Proslava završava najkasnije u 02:00 sata, prema Odluci Stožera civilne zaštite. 
+
+Česta pitanja i odgovore potražite na sljedećoj [poveznici](https://fgospodnetic.github.io/faq.html). 
+
+\
+\
+
+
+# Menu
+
+
+Za finu hranu angažiran je Catering Muring i trebalo bi biti izvrsno!
+Večera će biti poslužena na švedskom stolu, a meni donosimo u nastavku:
+
+\
+
+
+
+<font size="5"> 
+Predjelo
 </font>
+
+Dalmatinski pršut / slavonski kulen / laks kare / izbor domaćih sireva /
+domaća kuhana šunka pečena u kruhu / 
+savici od dimljenog lososa s limunom, maslacem i kaparama / 
+riblja pašteta od tune i inćuna / 
+carpaccio od povrća
+
+
+<font size="5"> 
+Salad bar
+</font>
+
+Salata od hobotnice / francuska salata / orijentalna salata s piletinom / 
+meksička salata / salata od kozica i artičoka / mozzarella i rajčica sa svježim bosiljkom
+
+<font size ="5"> 
+Sushi corner
+</font>
+
+Tuna / losos / mango+vege / avokado + vege: nigiri, uramaki, hosomaki /
+philadelphia roll
+
+
+<font size ="5"> 
+Topla jela
+</font>
+
+Zapečeni zagorski štrukli
+\
+Wok s povrćem i piletinom
+\
+Istarski fuži u umaku od tartufa
+\
+Mlada teletina ispod peke s krumpirom
+\
+Pureći jastučići punjeni šunkom i sirom u umaku od šampinjona s valjušcima
+\
+Dalmatinska pašticada s njokima
+\
+Mali zagrebački – povrće na maslacu
+\
+File orade u umaku od bijelog vina s blitvom
+
+<font size ="5"> 
+Ostalo
+</font>
+
+Buketi miješanih salata / 
+domaći kruh s maslinama, sjemenkama i vlascem / 
+slatki stol /
+ponoćno jelo - mini hambići
+
+
+

@@ -6,6 +6,16 @@ navbar:
     - text: "O proslavi"
       href: O_proslavi.html 
       
+      
+    - text: "FAQ"
+      href: faq.html
+    
+    - text: "Prijava dolaska"
+      href: prijava_dolaska.html  
+      
+    - text: "Gosti"
+      href: gosti.html
+      
     - text: "O nama"
       href: o_nama.html 
       
@@ -15,17 +25,14 @@ navbar:
     - text: "Naša priča"
       href: nasa_prica.html        
       
-    - text: "Prijava dolaska"
-      href: prijava_dolaska.html  
-      
-    - text: "Kontakt"
-      href: kontakt.html
-      
     - text: "Lokacija"
-      href: lokacija.html    
-   
+      href: lokacija.html   
+
     - text: "COVID-19"
       href: covid.html
+
+    - text: "Kontakt"
+      href: kontakt.html
 
 
 output:
